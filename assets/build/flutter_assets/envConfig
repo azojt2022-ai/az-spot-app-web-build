@@ -1,3 +1,0 @@
-ENV=DEV
-API_URL=https://azspot.dev/api
-HOST=https://azspot.dev
