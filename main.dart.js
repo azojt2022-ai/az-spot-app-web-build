@@ -51927,10 +51927,11 @@ $S:0}
 A.L6.prototype={
 a0(){return new A.a80(B.m)}}
 A.a80.prototype={
-av(){this.aR()
+av(){var s
+this.aR()
 $.R.ch$.push(new A.aKA(this))
-if($.cn==null)$.cn=new A.ev()
-$.fi().ga0Q().m2(new A.aKB(this))},
+try{if($.cn==null)$.cn=new A.ev()
+$.fi().ga0Q().m2(new A.aKB(this))}catch(s){}},
 C(a,b){var s,r,q=this,p=null,o="ADMIN",n=q.a.c,m=A.a(n.a,"id"),l=n.d==$.jR.h(0,o)?"Admin":"User",k=A.Q(["Id",m,"Graph UserId",n.b,"Org",n.c,"User Type",l,"Display Name",n.e,"Job Title",n.r,"Mail",n.w,"Mobile Phone",n.x,"Office Location",n.y,"Preferred Language",n.z,"Surname",n.Q,"User Principal Name",n.as],t.N,t.z),j=k.gfR(k).ee(0,new A.aKt(),t.l7).dC(0)
 n=q.a.c.e
 n.toString
