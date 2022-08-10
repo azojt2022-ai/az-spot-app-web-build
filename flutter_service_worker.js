@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f6d4b2f0c2d57acff581773cbc1817c6",
+  "assets/AssetManifest.json": "8a445d4db069f779433f1bff5f13fe48",
 "assets/assets/login-background.png": "c3d698f473fa29fd092e0bbc52964a9d",
 "assets/assets/login-icon.png": "ad75d345e8de7be2ac6f26907cc82f9c",
+"assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
@@ -33,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "64c467a8ead1d6c5cec5cd48d6a36643",
-"/": "64c467a8ead1d6c5cec5cd48d6a36643",
-"main.dart.js": "13452d657a69796b8a5d55085954540a",
+"index.html": "5e61e15704e9b2e7ec00bbcbfc1032b3",
+"/": "5e61e15704e9b2e7ec00bbcbfc1032b3",
+"main.dart.js": "bbf0313a21feef7caf2bffb92ba2eb8f",
 "manifest.json": "bfff27930d5bf7a0c059011b09890795",
 "version.json": "b6d3d6dd50e367bdf6b97553cc1daf28"
 };
