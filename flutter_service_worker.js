@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "02c01442ee075f0eb6e7870cdfc3418a",
+  "assets/AssetManifest.json": "131cc8637cddfbd8308ff48e0ceffb8f",
 "assets/assets/login-background.png": "c3d698f473fa29fd092e0bbc52964a9d",
 "assets/assets/login-icon.png": "ad75d345e8de7be2ac6f26907cc82f9c",
+"assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
@@ -31,9 +32,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "ad75d345e8de7be2ac6f26907cc82f9c",
 "icons/Icon-maskable-192.png": "ad75d345e8de7be2ac6f26907cc82f9c",
 "icons/Icon-maskable-512.png": "ad75d345e8de7be2ac6f26907cc82f9c",
-"index.html": "ae9571417b0917ab8cda9e2e34ca1e18",
-"/": "ae9571417b0917ab8cda9e2e34ca1e18",
-"main.dart.js": "c3544839332b99f11a2957cc8da645c7",
+"index.html": "d8fc6c658dc48157097da843bd6c9578",
+"/": "d8fc6c658dc48157097da843bd6c9578",
+"main.dart.js": "3f79a2dc61c9eaa9ff617e8379e5789c",
 "manifest.json": "0b53b8b1dbc357767e147ffe9dd6a5fd",
 "version.json": "b6d3d6dd50e367bdf6b97553cc1daf28"
 };
