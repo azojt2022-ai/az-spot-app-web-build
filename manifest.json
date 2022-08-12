@@ -1,6 +1,6 @@
 {
     "name": "az_spot_app",
-    "short_name": "az_spot_app",
+    "short_name": "AzSpOt - Azeus Sharepoint and Outlook Tool",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

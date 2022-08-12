@@ -3,15 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ed3da1bf7c3686b01ca7d308e7b2b59d",
+  "assets/AssetManifest.json": "02c01442ee075f0eb6e7870cdfc3418a",
 "assets/assets/login-background.png": "c3d698f473fa29fd092e0bbc52964a9d",
 "assets/assets/login-icon.png": "ad75d345e8de7be2ac6f26907cc82f9c",
+"assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/az-spot-app-web-build/assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/envConfig": "e8a2e13bdf03e4855f849be3c081a7cc",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "80ec62cea5fba2ec5e249f0d15f47460",
+"assets/NOTICES": "58d9ab44ff6004483c2dda3a8ab48b70",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -30,10 +31,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "ad75d345e8de7be2ac6f26907cc82f9c",
 "icons/Icon-maskable-192.png": "ad75d345e8de7be2ac6f26907cc82f9c",
 "icons/Icon-maskable-512.png": "ad75d345e8de7be2ac6f26907cc82f9c",
-"index.html": "70d1a4830a29a530fa3328e245d1e5be",
-"/": "70d1a4830a29a530fa3328e245d1e5be",
-"main.dart.js": "aed91d0a56ae7dbb90a3edf65a36dda3",
-"manifest.json": "bfff27930d5bf7a0c059011b09890795",
+"index.html": "ae9571417b0917ab8cda9e2e34ca1e18",
+"/": "ae9571417b0917ab8cda9e2e34ca1e18",
+"main.dart.js": "c3544839332b99f11a2957cc8da645c7",
+"manifest.json": "0b53b8b1dbc357767e147ffe9dd6a5fd",
 "version.json": "b6d3d6dd50e367bdf6b97553cc1daf28"
 };
 
